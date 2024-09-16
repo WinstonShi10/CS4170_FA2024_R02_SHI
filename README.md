@@ -69,6 +69,10 @@ run SLURM jobscript file
   sbatch jobScript.slurm
 ```
 
+Check Email to see a confirmation that the program is started/completed
+
+![image](Email Confirmation.jpeg)
+
 Find Slurm jobscript status
 
 ```bash
