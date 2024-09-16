@@ -75,11 +75,6 @@ Check Email to see a confirmation that the program is started/completed
   <img src="https://github.com/WinstonShi10/CS4170_FA2024_R02_SHI/blob/1f054e9c9d7dcc895d6fa50a6efc5d91f2c9e8c6/Email%20Confirmation.png" alt="Email Confirmation" width="351" height="760">
 </div>
 
-<center>
-  <img src="https://github.com/WinstonShi10/CS4170_FA2024_R02_SHI/blob/1f054e9c9d7dcc895d6fa50a6efc5d91f2c9e8c6/Email%20Confirmation.png" alt="Email Confirmation" width="351" height="760">
-</center>
-
-
 Find Slurm jobscript status
 
 ```bash
