@@ -71,7 +71,7 @@ run SLURM jobscript file
 
 Check Email to see a confirmation that the program is started/completed
 
-![image](Email Confirmation.jpeg | width=100)
+![image](Email Confirmation.jpeg)
 
 Find Slurm jobscript status
 
