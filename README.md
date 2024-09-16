@@ -3,6 +3,14 @@
 This reflection uses code created in class  that implements the Trapezoidal Rule. With the code, it will be runned on the Ohio Supercomputing Center (OSC). 
 
 This program will run a function that finds the area under the curve using the Trapezoidal rule Using parallelism. This means that over the intervals a=0 and b=16, data will be gathered from running 1 to 12 threads/processors with a value of n ranging from 10,000 to 100,000 in steps of 10,000.
+
+**Contents**
+- [Getting the program to run!](#Runing-Program)
+- [What did I learn this week and from this project?](#Lessons-Learned)
+- [What does this program's output look like when run?](#Running-Program)
+- [Given the output for running this program, what is the speedup?](#Calculating-Speedup)
+- [Given the speedup of the program, what is the efficiency when adding threads?](#Calculating-Efficiency)
+
 ## Runing Program
 
 **TO RUN LOCALLY:**
